@@ -1,0 +1,6 @@
+{
+  "name": "Shihab AI - Smart Personal & PC Assistant",
+  "description": "AI-powered desktop personal assistant with Gemini function calling, Bangla & English voice commands, automation dashboard, and local Windows PC agent integration.",
+  "requestFramePermissions": ["microphone", "clipboard-read", "clipboard-write"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
